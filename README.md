@@ -20,6 +20,8 @@ Click [here](https://colab.research.google.com/drive/1QoBDwtDhK2Wt6N2rbXBDVKEKsi
 
 The notebook works through an example exercise, leaving gaps for you to do your own coding. Please attempt to do this on your own to the best of your ability. If you get stuck, a full worked example can be found below.
 
+Alternatively, if you wish to run through this notebook locally, please git clone this repository and run the jupyter notebook named `MPhil_DIS_2025_L10_Incomplete.ipynb` which can be found in the `/notebooks/` folder.
+
 <details>
 
 <summary>Full worked example notebook</summary>
@@ -27,8 +29,26 @@ The notebook works through an example exercise, leaving gaps for you to do your 
 - [Click here](https://colab.research.google.com/drive/1MRjrVrVaK_0NIMR2eXPSXTYXdxQVEdY7?usp=sharing)
 - NOTE: DO NOT MODIFY ANY OF THE CODE IN THIS WORKED EXAMPLE! It should serve as a reference for your personal notebook only. Save a copy of this worked example into your drive before you run it.
 
+- Alternatively, if you wish to run through this notebook locally, please git clone this repository and run the jupyter notebook named `MPhil_DIS_2025_L10_Complete.ipynb` which can be found in the `/notebooks/` folder.
+
 </details>
 
+___
+___
+
+## Dependencies for running local version
+
+<details>
+<summary>Click here</summary>
+
+- python
+- numpy
+- matplotlib
+- scipy
+- jupyter
+- ipython
+
+</details>
 ___
 ___
 
