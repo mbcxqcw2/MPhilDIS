@@ -25,7 +25,7 @@ The notebook works through an example exercise, leaving gaps for you to do your 
 <summary>Full worked example notebook</summary>
 
 - [Click here](https://colab.research.google.com/drive/1MRjrVrVaK_0NIMR2eXPSXTYXdxQVEdY7?usp=sharing)
-- NOTE: DO NOT MODIFY ANY OF THE CODE IN THIS WORKED EXAMPLE! It should serve as a reference for your personal notebook only.
+- NOTE: DO NOT MODIFY ANY OF THE CODE IN THIS WORKED EXAMPLE! It should serve as a reference for your personal notebook only. Save a copy of this worked example into your drive before you run it.
 
 </details>
 
