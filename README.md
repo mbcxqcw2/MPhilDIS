@@ -16,7 +16,7 @@ ___
 
 ## Resources
 
-Click [here](https://colab.research.google.com/drive/1IbsblCQgtRA_PaqZ-uA1qg7ye3IBrhoB?usp=sharing)  to access a Google Colab notebook for this lecture. Once you have been granted access to this notebook, please save a copy of it to your drive and only modify the copy! Otherwise all students will end up modifying the same file.
+Click [here](https://colab.research.google.com/drive/1IbsblCQgtRA_PaqZ-uA1qg7ye3IBrhoB?usp=sharing)  to access a Google Colab notebook for this lecture. Once you have been granted access to this notebook, please save a copy of it to your drive and ONLY MODIFY THE COPY! Otherwise all students will end up modifying the same file.
 
 The notebook works through an example exercise, leaving gaps for you to do your own coding. Please attempt to do this on your own to the best of your ability. If you get stuck, a full worked example can be found below.
 
