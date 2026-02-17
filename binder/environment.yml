@@ -1,0 +1,12 @@
+name: psr_mphil_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - astropy
+  - scipy
+  - jupyter
+  - ipython
+  - pip
