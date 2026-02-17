@@ -16,7 +16,7 @@ ___
 
 ## Resources
 
-Click [here](https://colab.research.google.com/drive/1QoBDwtDhK2Wt6N2rbXBDVKEKsiwNnt_d?usp=sharing)  to access a Google Colab notebook for this lecture. Once you have been granted access to this notebook, please save a copy of it to your drive and only modify the copy! Otherwise all students will end up modifying the same file.
+Click [here](https://colab.research.google.com/drive/1IbsblCQgtRA_PaqZ-uA1qg7ye3IBrhoB?usp=sharing)  to access a Google Colab notebook for this lecture. Once you have been granted access to this notebook, please save a copy of it to your drive and only modify the copy! Otherwise all students will end up modifying the same file.
 
 The notebook works through an example exercise, leaving gaps for you to do your own coding. Please attempt to do this on your own to the best of your ability. If you get stuck, a full worked example can be found below.
 
@@ -26,7 +26,7 @@ Alternatively, if you wish to run through this notebook locally, please git clon
 
 <summary>Full worked example notebook</summary>
 
-- [Click here](https://colab.research.google.com/drive/1MRjrVrVaK_0NIMR2eXPSXTYXdxQVEdY7?usp=sharing)
+- [Click here](https://colab.research.google.com/drive/1tMQHyuwekgdRWTLv9wjPff2kBfcb8wKw?usp=sharing)
 - NOTE: DO NOT MODIFY ANY OF THE CODE IN THIS WORKED EXAMPLE! It should serve as a reference for your personal notebook only. Save a copy of this worked example into your drive before you run it.
 
 - Alternatively, if you wish to run through this notebook locally, please git clone this repository and run the jupyter notebook named `MPhil_DIS_2025_L10_Complete.ipynb` which can be found in the `/notebooks/` folder.
